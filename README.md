@@ -1,4 +1,4 @@
-# Sales Analysis
+# Sales Management
 
 
 ## Business Request

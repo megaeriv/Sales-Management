@@ -29,7 +29,7 @@ Let me know if you need anything else!
 
 ## Data Transformation
 
-o fulfill the business needs and create a data model, SQL was used to extract the necessary data.
+To fulfill the business needs and create a data model, SQL was used to extract the necessary data.
 
 The data model was also connected to an Excel data source containing the sales budget. In the following SQL statements, necessary data is extracted, cleansed, and transformed
 
